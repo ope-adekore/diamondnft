@@ -4,6 +4,7 @@
 # VERSION 1.1.0
 # AUTHOR: Max Gravitt
 # DESCRIPTION: base image of EOS dev
+# 
 
 FROM eosio/eos-dev:v1.1.1
 MAINTAINER Max Gravitt <mgravitt@opencrowd.com>
